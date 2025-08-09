@@ -43,7 +43,7 @@ YahooYTD/
 
 ## Ejemplo de salida
 ```
-Análisis de Rentabilidad Año a la Fecha (2025-01-01 - 2025-08-08)
+Análisis de Rentabilidad Año a la Fecha (2025-01-01 - 2025-08-08) 
 ======================================================================
 
 SÍMBOLO         EMPRESA                         PRECIO INICIAL   PRECIO ACTUAL     RENTABILIDAD YTD
